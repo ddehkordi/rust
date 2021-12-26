@@ -1,0 +1,1 @@
+/Users/danialpourjafar/Documents/GitHub/rust/image-combiner/target/debug/image-combiner: /Users/danialpourjafar/Documents/GitHub/rust/image-combiner/src/args.rs /Users/danialpourjafar/Documents/GitHub/rust/image-combiner/src/main.rs

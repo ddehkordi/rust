@@ -1,0 +1,10 @@
+/Users/danialpourjafar/Documents/GitHub/rust/rustlings/target/release/deps/clicolors_control-cfa5170efa515551.rmeta: /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/lib.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/common.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/terminfo.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/unix.rs
+
+/Users/danialpourjafar/Documents/GitHub/rust/rustlings/target/release/deps/libclicolors_control-cfa5170efa515551.rlib: /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/lib.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/common.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/terminfo.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/unix.rs
+
+/Users/danialpourjafar/Documents/GitHub/rust/rustlings/target/release/deps/clicolors_control-cfa5170efa515551.d: /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/lib.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/common.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/terminfo.rs /Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/unix.rs
+
+/Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/lib.rs:
+/Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/common.rs:
+/Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/terminfo.rs:
+/Users/danialpourjafar/.cargo/registry/src/github.com-1ecc6299db9ec823/clicolors-control-1.0.1/src/unix.rs:
